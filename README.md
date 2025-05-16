@@ -1,4 +1,3 @@
-# #README
 ## 👋 안녕하세요 이정민의 깃허브 페이지 입니다
 **백엔드 개발자를 목표로 성장 중인 이정민입니다.**
 컴퓨터공학과를 3.8의 학점으로 졸업하였으며, 현재는 부트캠프에서 Java, Spring, DevOps 등 다양한 백엔드 기술을 학습하고 실제 프로젝트를 통해 실무 경험을 쌓고 있습니다.
@@ -18,12 +17,14 @@
 - `2024.12` SQLD
 
 ## 💻 Project
-- 👑 실시간 채팅 게임 프로그램
+- 💬 [실시간 채팅 프로그램](https://github.com/zshfz/react-node-socketio-chat)
+- 👑 [실시간 채팅 기반 게임 프로그램](https://github.com/zshfz/react-nodejs-socketio-grabthecrown)
+
 
 ## 🛠️ Skills
 <img src="https://img.shields.io/badge/frontend-000000?style=for-the-badge&logo=frontend&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
-<img src="https://img.shields.io/badge/backend-000000?style=for-the-badge&logo=backend&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/backend-000000?style=for-the-badge&logo=backend&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
 
 <img src="https://img.shields.io/badge/DB-000000?style=for-the-badge&logo=DB&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
