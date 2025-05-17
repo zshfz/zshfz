@@ -17,7 +17,6 @@
 - `2024.12` SQLD
 
 ## 💻 Project
-- 💬 [실시간 채팅 프로그램](https://github.com/zshfz/react-node-socketio-chat)
 - 👑 [실시간 채팅 기반 게임 프로그램](https://github.com/zshfz/react-nodejs-socketio-grabthecrown)
 
 
