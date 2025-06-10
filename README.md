@@ -17,8 +17,8 @@
 - `2024.12` SQLD
 
 ## 💻 Project
-- 👑 [실시간 채팅 기반 게임 프로그램 (React + NodeJs + SocketIo)](https://github.com/zshfz/react-nodejs-socketio-grabthecrown)
-- 📝 [웹사이트 (Thymeleaf + Spring + mySQL)](https://github.com/zshfz/spring-mysql-website)
+- 👑 [실시간 채팅 기반 게임 프로그램 (React.js + Node.js + Socket.io)](https://github.com/zshfz/react-nodejs-socketio-grabthecrown)
+- 📝 [웹사이트 (Thymeleaf + Spring + MySQL)](https://github.com/zshfz/spring-mysql-website)
 
 ## 🛠️ Skills
 <img src="https://img.shields.io/badge/frontend-000000?style=for-the-badge&logo=frontend&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
