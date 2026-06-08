@@ -23,6 +23,7 @@
 - 👑 [실시간 채팅 기반 게임 프로그램 (React.js + Node.js + Socket.io)](https://github.com/zshfz/react-nodejs-socketio-grabthecrown)
 - 📝 [CRUD 웹사이트 (Thymeleaf + Spring + MySQL)](https://github.com/zshfz/spring-mysql-website)
 
-## 📬 Contact
-- 📧 **Email**: zshfz8634@gmail.com
-- <img src="https://github.com/PR0CESS9/PR0CESS9/assets/117502758/b00d6ef1-8c4d-45df-bbbf-73f1f33f6749" width="16" height="16"> **Portfolio**: [Notion 바로가기]([여러분의_노션_링크_주소](https://translucent-sweatshirt-cf7.notion.site/351d41c2a13b80818b09ea4b30aac7c3?source=copy_link))
+## 📝 Portfolio
+[![NOTION](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)](https://translucent-sweatshirt-cf7.notion.site/351d41c2a13b80818b09ea4b30aac7c3?source=copy_link)
+
+
