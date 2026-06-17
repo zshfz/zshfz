@@ -8,7 +8,7 @@
 |------------------------|--------------------|
 | 성결대학교 컴퓨터공학과           | 2019.03 ~ 2025.02  |
 | 멋쟁이사자처럼 자바 스프링 백엔드 15기 | 2025.02 ~ 2025.06  |
-| 캡스텍 IT서비스데스크 | 2025.06 ~ |
+| 캡스텍 IT서비스데스크 | 2025.06 ~ 재직중 |
 
 ## 📜 Certification
 - `2011.03` DIAT 프리젠테이션 고급
@@ -20,10 +20,10 @@
 - `2025.09` 네트워크관리사 2급
 
 ## 💻 Project
-- 👤 [서비스데스크 방문자 기록 시스템 (Html + Js + Firebase)](https://github.com/zshfz/html-js-firebase-servicedesk)
-- ✏️ [아지트 안내글 템플릿 시스템 (Html + Js + ManifestV3)](https://github.com/zshfz/html-js-manifestv3-agittemplate)
-- 👑 [실시간 채팅 기반 게임 프로그램 (React.js + Node.js + Socket.io)](https://github.com/zshfz/react-nodejs-socketio-grabthecrown)
-- 📝 [CRUD 웹사이트 (Thymeleaf + Spring + MySQL)](https://github.com/zshfz/spring-mysql-website)
+- 👤 [카카오모빌리티 IT서비스데스크 방문자 기록 시스템](https://github.com/zshfz/html-js-firebase-servicedesk)
+- ✏️ [아지트 안내글 템플릿 시스템](https://github.com/zshfz/html-js-manifestv3-agittemplate)
+- 👑 [실시간 채팅 기반 게임 프로그램](https://github.com/zshfz/react-nodejs-socketio-grabthecrown)
+- 📝 [CRUD 웹사이트](https://github.com/zshfz/spring-mysql-website)
 
 ## 📝 Portfolio
 [![NOTION](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)](https://translucent-sweatshirt-cf7.notion.site/351d41c2a13b80818b09ea4b30aac7c3?source=copy_link)
