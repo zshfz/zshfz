@@ -25,6 +25,6 @@
 - 📝 [CRUD 웹사이트](https://github.com/zshfz/spring-mysql-website)
 
 ## 📝 Portfolio
-[![NOTION](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)](https://translucent-sweatshirt-cf7.notion.site/351d41c2a13b80818b09ea4b30aac7c3?source=copy_link)
+[![NOTION](https://translucent-sweatshirt-cf7.notion.site/351d41c2a13b80818b09ea4b30aac7c3?source=copy_link)
 
 
